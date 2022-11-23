@@ -5,7 +5,7 @@ uTicket is an ordering ticket web application that built with NextJS with backen
 
 ### Clone
 ```Shell 
-git clone https://github.com/karomahlailatul/uTicket.git 
+git clone https://github.com/20000710/UTicket 
 ```
 
 ### Package installation
